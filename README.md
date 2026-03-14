@@ -234,21 +234,3 @@ Future work could explore **ARIMAX or multivariate models** incorporating extern
 
 ---
 
-# Project Structure
-
-```text
-/data
-    abs_gdp_per_capita.csv
-
-/scripts
-    sarima_model.R
-
-/figures
-    fig1_timeseries.png
-    fig2_trend.png
-    fig3_seasonality.png
-    fig4_remainder.png
-    fig5_acf_pacf.png
-    fig6_residuals.png
-    fig7_forecast.png
-```
